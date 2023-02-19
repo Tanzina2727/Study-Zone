@@ -1,0 +1,4 @@
+-----------Fine Information--------
+Patron ID: 565
+Teacher ID: 18-99-2
+Fine Amount: 695.0

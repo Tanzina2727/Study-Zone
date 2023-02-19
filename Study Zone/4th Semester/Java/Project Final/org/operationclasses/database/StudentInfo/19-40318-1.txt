@@ -1,0 +1,12 @@
+-----------Student Information--------
+Patron ID: 98
+Patron Name: Jisun
+Patron Department Name: CS Department
+Patron Email : jisunabedin@gmail.com
+Patron Contact No: 01767222411
+Patron Address: kuratoli dhaka
+Amount(Patron): 525.0
+Patron's Student Information: 
+Student ID: 19-40318-1
+Student's Guardian Name: Joynal Abedin
+Student's Guardian Contact No: 01714747326

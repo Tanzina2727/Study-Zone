@@ -1,0 +1,4 @@
+-----------Borrow Information--------
+Patron ID: 6262
+Teacher ID: 18-3265459-23
+Book ID: 6262

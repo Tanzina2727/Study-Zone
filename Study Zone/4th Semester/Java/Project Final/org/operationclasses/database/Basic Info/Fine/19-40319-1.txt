@@ -1,0 +1,4 @@
+-----------Fine Information--------
+Patron ID: 66
+Student ID: 19-40319-1
+Fine Amount: 77799.0

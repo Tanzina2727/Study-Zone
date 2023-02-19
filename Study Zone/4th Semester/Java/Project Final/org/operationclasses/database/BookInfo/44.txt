@@ -1,0 +1,13 @@
+-----------Book Information--------
+Book ID: 44
+Book Title: 44
+Book Subtitle: 44
+Book Author Information: 
+Author ID : 44
+Author Name: 44
+Author Email: 44
+Book Publisher Information: 
+Publisher ID : 44
+Publisher Name: 44
+Publisher Contact No: 44
+Book Price: 44.0

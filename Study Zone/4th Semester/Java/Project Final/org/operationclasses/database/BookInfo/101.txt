@@ -1,0 +1,13 @@
+-----------Book Information--------
+Book ID: 101
+Book Title: Jisun's Book
+Book Subtitle: Silence
+Book Author Information: 
+Author ID : 901
+Author Name: Jisun Abedin
+Author Email: jisunabedin@gmail.com
+Book Publisher Information: 
+Publisher ID : 601
+Publisher Name: Mathaaaa
+Publisher Contact No: 01767222411
+Book Price: 32326.0

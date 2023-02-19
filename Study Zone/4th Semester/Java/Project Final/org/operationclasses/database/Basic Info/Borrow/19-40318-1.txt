@@ -1,0 +1,4 @@
+-----------Borrow Information--------
+Patron ID: 22
+Student ID: 19-40318-1
+Book ID: 66

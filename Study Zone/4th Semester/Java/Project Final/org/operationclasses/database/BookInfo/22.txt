@@ -1,0 +1,13 @@
+-----------Book Information--------
+Book ID: 22
+Book Title: hh
+Book Subtitle: ff
+Book Author Information: 
+Author ID : 66
+Author Name: dd
+Author Email: hh
+Book Publisher Information: 
+Publisher ID : 161
+Publisher Name: ff
+Publisher Contact No: 222
+Book Price: 99.0
